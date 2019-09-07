@@ -3,16 +3,20 @@
 ERC20, ERC721トークンを発行する。
 
 ## Environment
+```
+Node v12.10.0
+Web3.js v1.2.1
 solidity-0.5.0
 truffle@5.0.33
 openzeppelin-solidity@2.3.0
 ganache-cli@6.6.0
+```
 
 ## Setup
 
 ```
-npm install -g truffle
-npm install -g ganache-cli
+npm install -g truffle@5.0.33
+npm install -g ganache-clii@6.6.0
 npm install
 ```
 
