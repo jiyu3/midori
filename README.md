@@ -4,7 +4,7 @@ ERC20, ERC721トークンを発行する。
 
 ## Environment
 ```
-Node v12.10.0
+Node v12.0.0
 Web3.js v1.2.1
 solidity-0.5.0
 truffle@5.0.33
