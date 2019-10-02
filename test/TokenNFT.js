@@ -1,8 +1,8 @@
 const TokenNFT = artifacts.require('TokenNFT.sol');
 
 contract('TokenNFT', function ([creator, ...accounts]) {
-    const name = "Midori";
-    const symbol = "MDR"
+    const name = "Midori:CERT";
+    const symbol = "MDRC"
 
     it("confirm contract...", async () => {
         const tokenNFTInstance = await TokenNFT.deployed();
