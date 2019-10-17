@@ -16,7 +16,7 @@ ganache-cli@6.6.0
 
 ```
 npm install -g truffle@5.0.33
-npm install -g ganache-clii@6.6.0
+npm install -g ganache-cli@6.6.0
 npm install
 ```
 
